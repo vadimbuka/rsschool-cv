@@ -2,7 +2,7 @@
 ***33 years***
 
 ---
-#### Junior JavaScript Developer
+### Junior JavaScript Developer
 ---
 
 **Phone:** +375-29-785-02-21  
